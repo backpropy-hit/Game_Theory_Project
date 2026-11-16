@@ -4,15 +4,15 @@
 
 **Paper analysed:** E. Gindullina, E. Peagno, G. Peron, L. Badia, *"A Game Theory Model for Multi Robot Cooperation in Industry 4.0 Scenarios"*, IEEE APCCAS 2021.
 
-**GitHub:** https://github.com/<username>/gt-project  (replace after pushing)
+**GitHub:** https://github.com/backpropy-hit/Game_Theory_Project  
 
 ## Group members
 
 | Name | Roll No. |
 |------|----------|
-| Sneha Shendre | <roll no.> |
-| <member 2> | <roll no.> |
-| <member 3> | <roll no.> |
+| Sneha Shendre | U24EP004 |
+| Hitbhai Lunagariya | U24EP023 |
+
 
 ## What we did
 
@@ -37,7 +37,7 @@
 We used Python 3.10+ on Ubuntu / Windows. Only numpy, matplotlib and pytest are needed.
 
 ```bash
-git clone https://github.com/<username>/gt-project.git
+git clone https://github.com/backpropy-hit/Game_Theory_Project.git
 cd gt-project
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
@@ -65,4 +65,4 @@ The payoff values come from Table I of the paper. The detection rates, breakage 
 
 ## References
 
-See `report/main.tex`.
+See `main.tex`.
